@@ -67,8 +67,3 @@ Ensure your webcam is connected and accessible.
 The GrabCut algorithm may take a moment to process each frame.
 Results depend on lighting conditions and contrast between foreground and background.
 The script processes frames every 10 seconds to balance performance and usability.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contributing
-Contributions are welcome! Please submit a pull request or open an issue for suggestions or bug reports.
